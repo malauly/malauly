@@ -1,14 +1,15 @@
 
 **About me:** <br>
+<div  translate="no">
 - **Learning:**
-    - <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width = "20px" align = "center"> HTML/CSS
+    - <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width = "20px" align = "center">  HTML/CSS
     -  <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" width = "20px" align = "center"> Javascript
-    - <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width = "20px" align = "center"> MySQL
+    - <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width = "20px" align = "center">  MySQL
     - <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width = "20px" align = "center"> Python
     - <img src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" width="20px" align = "center"> Java
     - <img src="https://play-lh.googleusercontent.com/UeiCnTGunCg4qcuBpFoVqG1DgJZqDsnW2CfY5lldp5ZfcQfr65yKTD53V7ug0kaV48g=w240-h480-rw" width="20px" align = "center"> R
     - <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width = "20px" align = "center"> Others..
-
+</div>
 
 - **Contact Me:**
 
