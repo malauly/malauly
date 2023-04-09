@@ -2,6 +2,7 @@
 **About me:** <br>
 <div  translate="no">
 - **Learning:**
+<div translate="no">
     - <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width = "20px" align = "center">  HTML/CSS
     -  <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" width = "20px" align = "center"> Javascript
     - <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width = "20px" align = "center">  MySQL
